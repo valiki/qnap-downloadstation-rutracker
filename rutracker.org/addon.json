@@ -1,0 +1,44 @@
+{
+    "author": "Val",
+    "website": "https://github.com/valiki",
+    "name": "rutracker.org",
+    "addon": "rutracker.org.php",
+    "class": "rutracker",
+    "hosts": [
+        "rutracker.org"
+    ],
+    "domain": "rutracker.org",
+    "version": 100,
+    "interface": [
+        "ISearch"
+    ],
+    "qpkg_dependencies": {
+        "DownloadStation": "5.6.3"
+    },
+    "description": {
+        "CZE": "",
+        "DAN": "",
+        "DUT": "",
+        "ENG": "rutracker.org torrent download station plugin",
+        "ESM": "",
+        "FIN": "",
+        "FRE": "",
+        "GER": "",
+        "GRK": "",
+        "HUN": "",
+        "ITA": "",
+        "JPN": "",
+        "KOR": "",
+        "NOR": "",
+        "POL": "",
+        "POR": "",
+        "ROM": "",
+        "RUS": "",
+        "SCH": "",
+        "SPA": "",
+        "SWE": "",
+        "TCH": "",
+        "THA": "",
+        "TUR": ""
+    }
+}
